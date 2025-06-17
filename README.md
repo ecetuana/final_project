@@ -1,8 +1,8 @@
 #  iklim değişikliği discord botu
-# hedef kitle
+# hedef kitle:
 ##  öğrenciler
-#  amaç
+#  amaç:
 ##  iklim değişikliği hakkındaki belirli soruları cevaplayan bir bot yapıp insanların daha duyarlı,biliçli hale gelmesini sağlamak
-#  özellikler
+#  özellikler:
 ##  15 tane soruyu cevaplayabilmesi
 ##  özel komut verildiğinde sana iklim değişikliği hakkında küçük bir test hazırlaması
