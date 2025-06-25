@@ -6,3 +6,4 @@
 #  özellikler:
 ##  15 tane soruyu cevaplayabilmesi
 ##  özel komut verildiğinde sana iklim değişikliği hakkında küçük bir test hazırlaması
+## "merhaba" yazıldığında sana "merhaba,ikkim değişikliği hakkında bir sorun mu var?" yazması
