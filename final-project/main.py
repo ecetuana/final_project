@@ -17,8 +17,12 @@ async def on_ready():
 async def on_message(message):
     if message.author == bot.user:
         return
+
     if message.content.lower() == "merhaba":
         await message.channel.send("Merhaba! İklim değişikliği hakkında soruların mı var?")
+    elif message.content.lower() == "teşekkür ederim":
+        await message.channel.send("Rica ederim, başka sorun olursa buradayım.")
+
     await bot.process_commands(message)
 
 # Soru-cevap veritabanı (cevaplanabilir 45 soru)
