@@ -6,4 +6,4 @@
 #  özellikler:
 ##  45 tane soruyu cevaplayabilmesi
 ##  özel komut verildiğinde sana iklim değişikliği hakkında 10 soruluk bir test hazırlaması ve doğru yanlışını söylemesi,ayrıca test bittiğinde aldığın puanı da söyler
-## "merhaba" yazıldığında sana "merhaba,ikkim değişikliği hakkında bir sorun mu var?" yazması
+## "merhaba" yazıldığında sana "merhaba,iklim değişikliği hakkında bir sorun mu var?" yazması
